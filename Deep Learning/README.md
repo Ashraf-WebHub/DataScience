@@ -1,10 +1,14 @@
-#### AMZN Stock Prediction:
+#### Notes:
 
-Training  Loss:
+* This is a model that works best with short-term (i.e. next day predictions) predictions
+* The model was trained on 90-day points/prices to predict the 91th day price
+* It can be modified to predict further days in the future (5-7 days) but is not recommended
+considering the volatility of the dynamic stock market
+* It is recommended to tweak the model with every stock or sector for best results
+* A good application is day trading bots along with NLP (Sentiment Analysis) enhancements
 
-<img src="https://user-images.githubusercontent.com/78180239/147800891-6a89cc1d-48d0-4059-acca-20128ffca970.png" width="60%" height="60%">
 
-Prediction & Accuracy:
+#### Sample Predictions:
 
 <img src="https://user-images.githubusercontent.com/78180239/147800941-1ae80edb-9607-48b6-9261-d63e428e78b6.png" width="60%" height="60%">
 
