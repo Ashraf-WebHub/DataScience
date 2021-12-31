@@ -1,7 +1,7 @@
 #### Notes:
 
 * This is a model that works best with short-term (i.e. next day predictions) predictions
-* The model was trained on 90-day points/prices to predict the 91th day price
+* The model was trained on 90-day points/prices to predict the 91st day price
 * It can be modified to predict further days in the future (5-7 days) but is not recommended
 considering the volatility of the dynamic stock market
 * It is recommended to tweak the model with every stock or sector for best results
