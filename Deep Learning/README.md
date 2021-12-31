@@ -5,7 +5,7 @@
 * It can be modified to predict further days in the future (5-7 days) but is not recommended
 considering the volatility of the dynamic stock market
 * It is recommended to tweak the model with every stock or sector for best results
-* A good application is day trading bots along with NLP (Sentiment Analysis) enhancements
+* A good application is day trading bots along with NLP (Sentiment Analysis) enhancements to buy the dips
 
 
 #### Sample Predictions:
