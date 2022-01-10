@@ -13,7 +13,7 @@ Reference: Kruschke, J. K. (2011). Doing Bayesian data analysis: A tutorial with
 
 ## Ordinary Least Squares Technique:
 
-<img src=(https://user-images.githubusercontent.com/78180239/148709116-b23cd769-cca6-4471-9cc0-5fbf2aeeda79.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/78180239/148709116-b23cd769-cca6-4471-9cc0-5fbf2aeeda79.png" width="60%" height="60%">
 
 
 ## Compare Frequentist and Bayesian Libraries:
